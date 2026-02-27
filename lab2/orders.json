@@ -1,0 +1,39 @@
+[
+
+  {
+
+    "order_id": 1,
+
+    "user": "Ali",
+
+    "items": ["phone", "case"],
+
+    "total": 300000
+
+  },
+
+  {
+
+    "order_id": 2,
+
+    "user": "Dana",
+
+    "items": ["laptop"],
+
+    "total": 800000
+
+  },
+
+  {
+
+    "order_id": 3,
+
+    "user": "Ali",
+
+    "items": ["mouse", "keyboard"],
+
+    "total": 70000
+
+  }
+
+]
