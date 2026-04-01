@@ -1,0 +1,18 @@
+2026-04-01 22:16:23.715083;1;LOOT;{'item': <__main__.Item object at 0x0000028D7BF2FD70>}
+2026-04-01 22:16:23.715890;1;HEAL;{'hp': 98, 'player': 'Naruto'}
+2026-04-01 22:16:23.716444;1;HEAL;{'hp': 32, 'player': 'Naruto'}
+2026-04-01 22:16:23.717016;2;LOOT;{'item': <__main__.Item object at 0x0000028D7BF2FD10>}
+2026-04-01 22:16:23.717498;2;ATTACK;{'damage': 29, 'player': 'Sasuke'}
+2026-04-01 22:16:23.718056;2;HEAL;{'hp': 60, 'player': 'Sasuke'}
+2026-04-01 22:16:23.718509;3;ATTACK;{'damage': 5, 'player': 'Sakura'}
+2026-04-01 22:16:23.719043;3;HEAL;{'hp': 63, 'player': 'Sakura'}
+2026-04-01 22:16:23.719849;3;LOOT;{'item': <__main__.Item object at 0x0000028D7BFBAD50>}
+2026-04-01 22:16:23.720295;4;HEAL;{'hp': 4, 'player': 'Kakashi'}
+2026-04-01 22:16:23.720768;4;LOOT;{'item': <__main__.Item object at 0x0000028D7BFBAD50>}
+2026-04-01 22:16:23.721164;4;ATTACK;{'damage': 90, 'player': 'Kakashi'}
+2026-04-01 22:16:23.721682;101;LOOT;{'item': <__main__.Item object at 0x0000028D7BF2C8F0>}
+2026-04-01 22:16:23.722184;101;ATTACK;{'damage': 17, 'player': 'Zoro'}
+2026-04-01 22:16:23.722710;101;LOOT;{'item': <__main__.Item object at 0x0000028D7BF2FD10>}
+2026-04-01 22:16:23.723120;102;HEAL;{'hp': 78, 'player': 'Luffy'}
+2026-04-01 22:16:23.723633;102;HEAL;{'hp': 39, 'player': 'Luffy'}
+2026-04-01 22:16:23.724010;102;LOOT;{'item': <__main__.Item object at 0x0000028D7BFBAD50>}
